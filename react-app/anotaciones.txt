@@ -1,0 +1,21 @@
+El proyecto se creó usando el comando:
+    npm create vite@latest
+    -> react-app
+    -> React
+    -> JavaScript
+
+Dentro de la carpeta "react-app" ejecutar el comando:
+    npm install
+    * Instala las dependencias necesarias en la carpeta "node_modules"
+
+Para levantar el proyecto:
+    npm run dev
+    * Se van actualizando los cambios de forma automática
+    * Indica el puerto en que estará trabajando el servidor "Vite + React"
+
+Instalar props
+    npm i prop-types
+
+Instalación de axios
+Axios es una librería  JavaScript que puede ejecutarse en el navegador y que nos permite hacer sencillas las operaciones como cliente HTTP, por lo que podremos configurar y realizar solicitudes a un servidor y recibiremos respuestas fáciles de procesar.
+    npm i axios
